@@ -183,7 +183,7 @@ try {
            
         //MESS
 		mess = {
-			wait: 'Otewe',
+			wait: 'Waitingtod....',
 			success: 'Berhasil!',
 			wrongFormat: 'Format salah, coba liat lagi di menu',
 			error: {
