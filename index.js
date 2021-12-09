@@ -579,7 +579,7 @@ txt = `*「 PERATURAN BOT 」*
         case 'usebot':
 txxt = `*「 HOW TO USE BOT 」*
 
-1. PLEASE USE ${prefix} FOR COMMAND
+1. PLEASE USE ${prefix} FOR COMMAND!
 > Example: ${prefix}menu
 2. DON'T SPAM THIS BOTS
 > Give Five Seconds Pause
