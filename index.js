@@ -1,5 +1,5 @@
 // SC NYA JANGAN DI JUAL NGENTOD
-//MAKASIH DAH PAKE 
+//MAKASIH DAH PAKE!!
 const
 	{
 		WAConnection,
