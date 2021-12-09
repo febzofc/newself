@@ -610,7 +610,7 @@ txxt = `*「 HOW TO USE BOT 」*
 •🔗 Link : ${yut.all[0].url}`
         ya = await getBuffer(thumb)
         py =await pebz.prepareMessage(from, ya, image)
-        gbutsan = [{buttonId: `${prefix}ytaudio ${yut.all[0].url}`, buttonText: {displayText: '🎵AUDIO'}, type: 1},{buttonId: `${prefix}ytmp4 ${yut.all[0].url}`, buttonText: {displayText: '🎥VIDEO'}, type: 1}]
+        gbutsan = [{buttonId: `${prefix}ytmp3 ${yut.all[0].url}`, buttonText: {displayText: '🎵AUDIO'}, type: 1},{buttonId: `${prefix}ytmp4 ${yut.all[0].url}`, buttonText: {displayText: '🎥VIDEO'}, type: 1}]
         gbuttonan = {
         imageMessage: py.message.imageMessage,
         contentText: capti,
